@@ -3,6 +3,8 @@ Search the Mongo Collection using Fuse.
 
 ## Usage
 
+    meteor add yasaricli:search
+
 ```javascript
 
 import { Search } from 'meteor/yasaricli:search';
