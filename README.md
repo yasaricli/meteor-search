@@ -63,4 +63,6 @@ Regex used to separate words when searching. Only applicable when `tokenize` is 
 
 When `true`, the result set will only include records that match all tokens. Will only work if `tokenize` is also true.
 
+
+-----
 **Thanks** [Fuse](http://fusejs.io/)
