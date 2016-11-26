@@ -9,5 +9,7 @@ Package.describe( {
 Package.onUse((api) => {
   api.versionsFrom('1.4.2');
   api.use("ecmascript");
-  api.mainModule('search.js', 'server');
+
+  // server and client 
+  api.mainModule('search.js');
 });
